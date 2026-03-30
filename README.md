@@ -1,2 +1,3 @@
-# Ex-1
-Curs git
+# Directory Manager Project
+
+Create, delete, modify and sort folders from a menu. Made only for training.
